@@ -1,0 +1,15 @@
+{
+    "imap":{
+        "user": "code@ckui.net",
+        "password": "Code888123",
+        "host": "mail.ckui.net",
+        "port": 143,
+        "tls": false
+    },
+    "S5":{
+        "host": "e76498c26ccd1398.iuy.sg.ip2world.vip",
+        "port": 6001,
+        "username": "click888-zone-resi-region-hk",
+        "password": "click123"
+    }
+}
